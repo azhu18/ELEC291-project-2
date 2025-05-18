@@ -29,7 +29,7 @@ A robotic system designed and built as part of ELEC 291/292 at the University of
 * **Joystick**: PS2 joystick to ADC pins
 * **Control Buttons**: Mode switching and manual start
 
-## Software Overview
+## 💻 Software Overview
 
 * **Language**: C (embedded), Python (PC path plotting)
 * **Control Logic**: Timer5 ISR manages PWM for motor/servo
